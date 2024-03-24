@@ -11,7 +11,7 @@ AI diagnostician in your phone. Check the [notebook](https://github.com/HouseMDA
 	- GitHub: [@elibirov](https://github.com/elibirov)
 	- LinkedIn: [in/elibrovash](https://www.linkedin.com/in/elibrovash)
 - Boris Senkovskiy
-	- GitHub: [@elibirov](https://github.com/senkovskiy)
+	- GitHub: [@senkovskiy](https://github.com/senkovskiy)
 	- LinkedIn: [in/boris-senkovskiy](https://www.linkedin.com/in/boris-senkovskiy)
 - Marcel Wefers
 	- GitHub: ???
