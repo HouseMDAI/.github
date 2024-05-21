@@ -16,3 +16,9 @@ AI diagnostician in your phone. Check the [notebook](https://github.com/HouseMDA
 - Marcel Wefers
 	- GitHub: [@wefersmasasana](https://github.com/wefersmasasana)
 	- LinkedIn: [in/marcel-wefers-466067268](https://www.linkedin.com/in/marcel-wefers-466067268)
+
+### Articles about the project:
+
+- [How We Built an AI Startup in a Weekend Hackathon in Germany](https://markparker.me/blog/how-we-built-an-ai-startup-in-a-weekend-hackathon-in-germany)
+- [Dr. House — AI Diagnostician in your phone. Passing the Torch and Entrusting a Startup to Capable Hands](https://markparker.me/blog/house-md-ai-diagnostician-in-your-phone-passing-the-torch-and-entrusting-a-startup-to-capable-hands)
+- [AI-powered Mobile App with Backend in Two Days (Tutorial)](https://markparker.me/blog/ai-powered-mobile-app-with-backend-in-two-days-tutorial)
